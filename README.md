@@ -28,11 +28,8 @@ The key goals of this project are:
 ## 📂 Project Structure
 
 📁 Fundamental_Investment_Scoring/
-  
  │
-  
  ├── Stock picks.ipynb        # Main Databricks / Jupyter notebook
-
  ├── README.md                # Project documentation
 
 ---
